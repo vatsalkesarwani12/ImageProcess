@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924736859350",
+    "firebase_url": "https://imageprocess-8f2d4.firebaseio.com",
+    "project_id": "imageprocess-8f2d4",
+    "storage_bucket": "imageprocess-8f2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924736859350:android:e5059ef8ed256c71512d77",
+        "android_client_info": {
+          "package_name": "com.vatsal.kesarwani.imageprocess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924736859350-9567ihj1oeomngki19vqgai5rpigjl98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqbbcJWbLpayC8hqH7DkhiIwhJP3l9tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924736859350-9567ihj1oeomngki19vqgai5rpigjl98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
